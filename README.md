@@ -1,2 +1,14 @@
-# linux-cloud-devops-lab
-Projects related to Linux administration, Azure automation, AKS, and CI/CD using Terraform, Ansible, and Azure DevOps.
+
+# Linux + Azure DevOps Lab
+This repository contains automation scripts and configurations related to:
+- Linux VM provisioning with Terraform & Ansible
+- Kubernetes app deployment on AKS
+- Bash scripts for backup and monitoring
+- Azure DevOps pipelines for CI/CD
+
+## Technologies
+- Terraform, Ansible
+- Azure DevOps, Azure CLI
+- Kubernetes (AKS), Helm, Docker
+- Bash, Python
+
